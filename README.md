@@ -1,5 +1,5 @@
 # TensorFlow Vision: Object Detection and Flutter Integration
-A comprehensive project showcasing object detection using TensorFlow and seamless integration with Flutter. TensorFlow Vision provides a powerful solution for building and deploying object detection models, while leveraging the capabilities of Flutter.
+A personal project showcasing object detection using TensorFlow and integration with Flutter. TensorFlow Vision provides a powerful solution for building and deploying object detection models, while leveraging the capabilities of Flutter to implement it on mobile devices.
 
 
 ---
@@ -34,6 +34,9 @@ TensorFlow Custom Model Maker: a library that simplifies the process of training
 Python: a popular programming language widely used for data science and machine learning applications.<br>
 Annotation Tool: a tool used for annotating images to create datasets for training machine learning models.<br>
 Flutter: a mobile app SDK for building high-performance, high-fidelity, apps for iOS and Android.<br>
+
+
+<img src="https://user-images.githubusercontent.com/47912781/228863314-f7b8e003-404d-498d-b8bc-7ce0936a53cd.png"  height="250" >
 
 
 <div align="right">[ <a href="#table-of-contents">↑ to top ↑</a> ]</div>
