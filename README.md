@@ -40,10 +40,13 @@ Flutter: a mobile app SDK for building high-performance, high-fidelity, apps for
 
 
 
+
+
 ## [Examples](#examples)
 Here are some screenshots of the Flutter application with real-time object detection:
 
 
+<img src="https://github.com/snakeku/TensorFlow-Vision-Object-Detection-and-Flutter-Integration/assets/47912781/b2cf008b-1d33-4541-8304-2117d2d0daa5" alt="VideoClippedShowcase" style="height: 500px;">
 
 
 <div align="right">[ <a href="#table-of-contents">↑ to top ↑</a> ]</div>
